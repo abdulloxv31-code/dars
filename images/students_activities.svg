@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#f0f9ff"/><stop offset="1" stop-color="#e6f0ff"/></linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <g transform="translate(120,120)">
+    <rect x="0" y="0" width="960" height="560" rx="16" fill="#fff" stroke="#dbeafe"/>
+    <g transform="translate(40,40)">
+      <rect x="0" y="0" width="280" height="200" rx="10" fill="#bfdbfe"/>
+      <rect x="320" y="0" width="520" height="120" rx="10" fill="#93c5fd"/>
+      <rect x="320" y="160" width="520" height="120" rx="10" fill="#bfdbfe"/>
+      <text x="0" y="260" font-family="Arial" font-size="20" fill="#0b2447">Students in activities</text>
+    </g>
+  </g>
+</svg>
